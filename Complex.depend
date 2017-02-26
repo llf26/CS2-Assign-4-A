@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1488133829 source:c:\users\larry\documents\ua classes\cs2\complex\main.cpp
+	<iostream>
+	<string>
+	"Complex.hpp"
+
+1488133899 c:\users\larry\documents\ua classes\cs2\complex\include\complex.hpp
+	<string>
+	<fstream>
+
+1488131284 source:c:\users\larry\documents\ua classes\cs2\complex\src\complex.cpp
+	<iostream>
+	<sstream>
+	"Complex.hpp"
+
